@@ -1,0 +1,7 @@
+{
+        'name' : 'neobundle',
+        'path' : 'Shougo/neobundle',
+        'description' : 'Ultimate Vim package manager',
+        'author' : 'Shougo',
+        'website' : 'https://github.com/Shougo/neobundle.vim'
+}

@@ -1,0 +1,8 @@
+{
+        'name' : 'vesting',
+        'path' : 'Shougo/vesting',
+        'description' : 'The best testing framework for Vim script',
+        'author' : 'Shougo',
+        'website' : 'https://github.com/Shougo/vesting',
+        'script_type' : 'plugin',
+}

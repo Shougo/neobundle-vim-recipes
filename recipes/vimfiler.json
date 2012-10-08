@@ -1,0 +1,9 @@
+{
+        'name' : 'vimfiler',
+        'path' : 'Shougo/vimfiler',
+        'description' : 'Powerful file explorer implemented by Vim script',
+        'author' : 'Shougo',
+        'website' : 'https://github.com/Shougo/vimfiler',
+        'script_type' : 'plugin',
+        'depends' : 'Shougo/unite.vim',
+}

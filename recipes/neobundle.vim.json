@@ -1,7 +1,8 @@
 {
         'name' : 'neobundle',
-        'path' : 'Shougo/neobundle',
+        'path' : 'Shougo/neobundle.vim',
         'description' : 'Ultimate Vim package manager',
         'author' : 'Shougo',
-        'website' : 'https://github.com/Shougo/neobundle.vim'
+        'website' : 'https://github.com/Shougo/neobundle.vim',
+        'script_type' : 'plugin',
 }

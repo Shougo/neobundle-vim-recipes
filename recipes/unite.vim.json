@@ -1,5 +1,5 @@
 {
-        'name' : 'unite',
+        'name' : 'unite.vim',
         'path' : 'Shougo/unite.vim',
         'description' : 'Ultimate interface to unite all sources',
         'author' : 'Shougo',

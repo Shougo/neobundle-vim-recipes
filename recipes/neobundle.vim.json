@@ -1,5 +1,5 @@
 {
-        'name' : 'neobundle',
+        'name' : 'neobundle.vim',
         'path' : 'Shougo/neobundle.vim',
         'description' : 'Ultimate Vim package manager',
         'author' : 'Shougo',

@@ -1,3 +1,4 @@
+# Vim recipe file for neobundle.
 {
         'name' : 'neobundle.vim',
         'path' : 'Shougo/neobundle.vim',

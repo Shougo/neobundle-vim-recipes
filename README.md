@@ -1,7 +1,7 @@
 ## About
 
 This is the standard recipe files for
-neobundle(https://github.com/Shougo/neobundle).
+neobundle(https://github.com/Shougo/neobundle.vim).
 
 You can install the scripts using ":Unite neobundle/search" command.
 

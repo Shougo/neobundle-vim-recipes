@@ -1,14 +1,15 @@
 {
-        'name' : 'vimproc',
-        'path' : 'Shougo/vimproc',
+        'name' : 'vimproc.vim',
+        'path' : 'Shougo/vimproc.vim',
         'description' : 'Asynchronous execution plugin for Vim',
         'author' : 'Shougo',
-        'website' : 'https://github.com/Shougo/vimproc',
+        'website' : 'https://github.com/Shougo/vimproc.vim',
         'script_type' : 'plugin',
         'build' : {
-           'windows' : 'echo "Sorry, cannot update vimproc binary file in Windows."',
+           'windows' : 'tools\\update-dll-mingw',
            'cygwin' : 'make -f make_cygwin.mak',
            'mac' : 'make -f make_mac.mak',
-           'unix' : 'make -f make_unix.mak',
+           'linux' : 'make',
+           'unix' : 'gmake',
         },
 }

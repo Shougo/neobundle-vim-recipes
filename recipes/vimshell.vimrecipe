@@ -5,7 +5,7 @@
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/vimshell',
         'script_type' : 'plugin',
-        'depends' : [['Shougo/vimproc', {'build' : {
+        'depends' : [['Shougo/vimproc.vim', {'build' : {
            'windows' : 'echo "Sorry, cannot update vimproc binary file in Windows."',
            'cygwin' : 'make -f make_cygwin.mak',
            'mac' : 'make -f make_mac.mak',

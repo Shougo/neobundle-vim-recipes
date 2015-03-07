@@ -1,0 +1,7 @@
+{
+        'name' : 'vinarise',
+        'path' : 'Shougo/vinarise.vim',
+        'description' : 'Ultimate hex editing system with Vim',
+        'author' : 'Shougo',
+        'website' : 'https://github.com/Shougo/vinarise.vim',
+}

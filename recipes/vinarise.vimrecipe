@@ -1,8 +1,0 @@
-{
-        'name' : 'vinarise',
-        'path' : 'Shougo/vinarise',
-        'description' : 'Ultimate hex editing system with Vim',
-        'author' : 'Shougo',
-        'website' : 'https://github.com/Shougo/vinarise',
-        'script_type' : 'plugin',
-}

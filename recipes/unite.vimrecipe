@@ -4,5 +4,4 @@
         'description' : 'Ultimate interface to unite all sources',
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/unite.vim',
-        'script_type' : 'plugin',
 }

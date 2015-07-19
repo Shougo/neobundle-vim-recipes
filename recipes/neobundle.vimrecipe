@@ -5,5 +5,4 @@
         'description' : 'Ultimate Vim package manager',
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/neobundle.vim',
-        'script_type' : 'plugin',
 }

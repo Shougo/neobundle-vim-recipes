@@ -4,5 +4,4 @@
         'description' : 'Ultimate auto completion system for Vim',
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/neocomplcache',
-        'script_type' : 'plugin',
 }

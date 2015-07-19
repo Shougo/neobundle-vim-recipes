@@ -4,6 +4,5 @@
         'description' : 'neo-snippet plugin contains neocomplcache snippets source',
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/neocomplcache-snippets-complete',
-        'script_type' : 'plugin',
         'depends' : 'Shougo/neocomplcache',
 }

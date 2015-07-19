@@ -4,7 +4,6 @@
         'description' : 'Asynchronous execution plugin for Vim',
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/vimproc.vim',
-        'script_type' : 'plugin',
         'build' : {
            'windows' : 'tools\\update-dll-mingw',
            'cygwin' : 'make -f make_cygwin.mak',

@@ -4,7 +4,6 @@
         'description' : 'Powerful shell implemented by Vim script',
         'author' : 'Shougo',
         'website' : 'https://github.com/Shougo/vimshell.vim',
-        'script_type' : 'plugin',
         'depends' : [['Shougo/vimproc.vim', {'build' : {
            'windows' : 'echo "Sorry, cannot update vimproc binary file in Windows."',
            'cygwin' : 'make -f make_cygwin.mak',
